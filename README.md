@@ -1,6 +1,12 @@
 # dotfiles
-My dotfiles
+My Arch Linux dotfiles
 
-![How this looks like](/Assets/setup.png)
+![](screenshot.png)
 
-## NOTE: All these folders go in the ~/.config directory(put the rofi menu scripts in the ~/.local/bin directory)!
+WM: Hyprland
+
+Terminal: Kitty
+
+File Explorer: Thunar
+
+Program Launcher: rofi
